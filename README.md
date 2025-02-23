@@ -1,4 +1,4 @@
-# Machine-Learning-Models-for-Skin-Disease-Classification
+
 # Skin Disease Text Classification with Naive Bayes, XGBoost, and BERT
 
 ## **Overview**

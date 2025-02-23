@@ -1,5 +1,4 @@
 # Machine-Learning-Models-for-Skin-Disease-Classification
--
 # Skin Disease Text Classification with Naive Bayes, XGBoost, and BERT
 
 ## **Overview**
@@ -34,7 +33,3 @@ This project focuses on text classification for skin disease descriptions using 
 - Fine-tuned on labeled text data using **PyTorch**.
 - Used `Trainer` API for model training.
 
-## **Dependencies**
-To run the notebook, install the required libraries:
-```bash
-pip install numpy pandas seaborn scikit-learn xgboost imbalanced-learn transformers torch

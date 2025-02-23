@@ -1,5 +1,5 @@
 
-# Skin Disease Text Classification with Naive Bayes, XGBoost, and BERT
+# Skin Disease Text Classification with Naive Bayes, XGBoost & BERT
 
 ## **Overview**
 This project focuses on text classification for skin disease descriptions using machine learning and deep learning models. The dataset consists of textual descriptions of skin conditions, which are preprocessed and vectorized before being classified using three different models:
